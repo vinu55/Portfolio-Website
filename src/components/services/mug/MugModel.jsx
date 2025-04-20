@@ -112,4 +112,4 @@ export function MugModel(props) {
   )
 }
 
-useGLTF.preload('/mugModel.glb')
+useGLTF.preload('/mugModel.glb') 
